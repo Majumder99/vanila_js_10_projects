@@ -7,3 +7,4 @@ Learned from https://www.youtube.com/watch?v=dtKciwk_si4
 3. Notes App
 4. Movie App
 5. Password Generator
+6. Hamburger Button
